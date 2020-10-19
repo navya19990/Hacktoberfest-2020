@@ -17,8 +17,8 @@ import { User } from './user.model';
 export class UserService {
 
  private apiUrl = 'https://localhost:8080/api/users';
-private dummyKey="123456799"
 
+// private file can't be accepted in public domain
 
  constructor(private http: HttpClient) { }
 
