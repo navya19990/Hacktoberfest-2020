@@ -8,5 +8,5 @@
 
 .cd-cart--empty .cd-cart__trigger,
 .cd-cart--empty .cd-cart__content { // hide cart
-  transform: translateY(150px);
+  transform: translateY(160px);
 }
